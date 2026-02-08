@@ -1,0 +1,1596 @@
+{
+  "season": "2025-2026",
+  "weeks": [
+    {
+      "week": 1,
+      "records": {
+        "CF&SF": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Mark F.": {
+          "wins": 13,
+          "losses": 3,
+          "ties": 0,
+          "raw": "13-3"
+        },
+        "Susan": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Cowan": {
+          "wins": 7,
+          "losses": 9,
+          "ties": 0,
+          "raw": "7-9"
+        },
+        "Ray": {
+          "wins": 12,
+          "losses": 4,
+          "ties": 0,
+          "raw": "12-4"
+        },
+        "Vicki": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Craig": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Kevin": {
+          "wins": 14,
+          "losses": 2,
+          "ties": 0,
+          "raw": "14-2"
+        },
+        "Mark C.": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Lisa": {
+          "wins": 14,
+          "losses": 2,
+          "ties": 0,
+          "raw": "14-2"
+        },
+        "Heidi": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        }
+      },
+      "points": {
+        "CF&SF": 50,
+        "Mark F.": 42,
+        "Susan": 43,
+        "Cowan": 41,
+        "Ray": 52,
+        "Vicki": 43,
+        "Craig": 42,
+        "Kevin": 42,
+        "Mark C.": 46,
+        "Lisa": 41,
+        "Heidi": 43
+      },
+      "mondayTotal": 51
+    },
+    {
+      "week": 2,
+      "records": {
+        "CF&SF": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Mark F.": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Susan": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Cowan": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Ray": {
+          "wins": 13,
+          "losses": 3,
+          "ties": 0,
+          "raw": "13-3"
+        },
+        "Vicki": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Craig": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Kevin": {
+          "wins": 7,
+          "losses": 9,
+          "ties": 0,
+          "raw": "7-9"
+        },
+        "Mark C.": {
+          "wins": 12,
+          "losses": 4,
+          "ties": 0,
+          "raw": "12-4"
+        },
+        "Lisa": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Heidi": {
+          "wins": 12,
+          "losses": 4,
+          "ties": 0,
+          "raw": "12-4"
+        }
+      },
+      "points": {
+        "CF&SF": 92,
+        "Mark F.": 92,
+        "Susan": 74,
+        "Cowan": 89,
+        "Ray": 79,
+        "Vicki": 78,
+        "Craig": 86,
+        "Kevin": 85,
+        "Mark C.": 99,
+        "Lisa": 97,
+        "Heidi": 64
+      },
+      "mondayTotal": 68
+    },
+    {
+      "week": 3,
+      "records": {
+        "CF&SF": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Mark F.": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Susan": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Cowan": {
+          "wins": 7,
+          "losses": 9,
+          "ties": 0,
+          "raw": "7-9"
+        },
+        "Ray": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Vicki": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Craig": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Kevin": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Mark C.": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Lisa": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Heidi": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        }
+      },
+      "points": {
+        "CF&SF": 52,
+        "Mark F.": 52,
+        "Susan": 32,
+        "Cowan": 49,
+        "Ray": 42,
+        "Vicki": 47,
+        "Craig": 42,
+        "Kevin": 42,
+        "Mark C.": 39,
+        "Lisa": 66,
+        "Heidi": 45
+      },
+      "mondayTotal": 68
+    },
+    {
+      "week": 4,
+      "records": {
+        "CF&SF": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Mark F.": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Susan": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Cowan": {
+          "wins": 6,
+          "losses": 10,
+          "ties": 0,
+          "raw": "6-10"
+        },
+        "Ray": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Vicki": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Craig": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Kevin": {
+          "wins": 6,
+          "losses": 10,
+          "ties": 0,
+          "raw": "6-10"
+        },
+        "Mark C.": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Lisa": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Heidi": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        }
+      },
+      "points": {
+        "CF&SF": 87,
+        "Mark F.": 68,
+        "Susan": 93,
+        "Cowan": 73,
+        "Ray": 78,
+        "Vicki": 75,
+        "Craig": 85,
+        "Kevin": 88,
+        "Mark C.": 82,
+        "Lisa": 105,
+        "Heidi": 84
+      },
+      "mondayTotal": 79
+    },
+    {
+      "week": 5,
+      "records": {
+        "CF&SF": {
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "raw": "7-7"
+        },
+        "Mark F.": {
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "raw": "5-9"
+        },
+        "Susan": {
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "raw": "8-6"
+        },
+        "Cowan": {
+          "wins": 11,
+          "losses": 3,
+          "ties": 0,
+          "raw": "11-3"
+        },
+        "Ray": {
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "raw": "9-5"
+        },
+        "Vicki": {
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "raw": "5-9"
+        },
+        "Craig": {
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "raw": "6-8"
+        },
+        "Kevin": {
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "raw": "6-8"
+        },
+        "Mark C.": {
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "raw": "7-7"
+        },
+        "Lisa": {
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "raw": "7-7"
+        },
+        "Heidi": {
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "raw": "5-9"
+        }
+      },
+      "points": {
+        "CF&SF": 46,
+        "Mark F.": 43,
+        "Susan": 43,
+        "Cowan": 45,
+        "Ray": 48,
+        "Vicki": 41,
+        "Craig": 45,
+        "Kevin": 45,
+        "Mark C.": 51,
+        "Lisa": 42,
+        "Heidi": 42
+      },
+      "mondayTotal": 59
+    },
+    {
+      "week": 6,
+      "records": {
+        "CF&SF": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Mark F.": {
+          "wins": 8,
+          "losses": 7,
+          "ties": 0,
+          "raw": "8-7"
+        },
+        "Susan": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        },
+        "Cowan": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Ray": {
+          "wins": 9,
+          "losses": 6,
+          "ties": 0,
+          "raw": "9-6"
+        },
+        "Vicki": {
+          "wins": 8,
+          "losses": 7,
+          "ties": 0,
+          "raw": "8-7"
+        },
+        "Craig": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Kevin": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Mark C.": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Lisa": {
+          "wins": 7,
+          "losses": 8,
+          "ties": 0,
+          "raw": "7-8"
+        },
+        "Heidi": {
+          "wins": 8,
+          "losses": 7,
+          "ties": 0,
+          "raw": "8-7"
+        }
+      },
+      "points": {
+        "CF&SF": 96,
+        "Mark F.": 88,
+        "Susan": 94,
+        "Cowan": 75,
+        "Ray": 118,
+        "Vicki": 73,
+        "Craig": 85,
+        "Kevin": 86,
+        "Mark C.": 79,
+        "Lisa": 73,
+        "Heidi": 93
+      },
+      "mondayTotal": 87
+    },
+    {
+      "week": 7,
+      "records": {
+        "CF&SF": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Mark F.": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Susan": {
+          "wins": 13,
+          "losses": 2,
+          "ties": 0,
+          "raw": "13-2"
+        },
+        "Cowan": {
+          "wins": 9,
+          "losses": 6,
+          "ties": 0,
+          "raw": "9-6"
+        },
+        "Ray": {
+          "wins": 12,
+          "losses": 3,
+          "ties": 0,
+          "raw": "12-3"
+        },
+        "Vicki": {
+          "wins": 7,
+          "losses": 8,
+          "ties": 0,
+          "raw": "7-8"
+        },
+        "Craig": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        },
+        "Kevin": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Mark C.": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        },
+        "Lisa": {
+          "wins": 12,
+          "losses": 3,
+          "ties": 0,
+          "raw": "12-3"
+        },
+        "Heidi": {
+          "wins": 12,
+          "losses": 3,
+          "ties": 0,
+          "raw": "12-3"
+        }
+      },
+      "points": {
+        "CF&SF": 99,
+        "Mark F.": 75,
+        "Susan": 94,
+        "Cowan": 70,
+        "Ray": 97,
+        "Vicki": 83,
+        "Craig": 75,
+        "Kevin": 86,
+        "Mark C.": 88,
+        "Lisa": 86,
+        "Heidi": 77
+      },
+      "mondayTotal": 33
+    },
+    {
+      "week": 8,
+      "records": {
+        "CF&SF": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Mark F.": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Susan": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Cowan": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Ray": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Vicki": {
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "raw": "7-6"
+        },
+        "Craig": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Kevin": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Mark C.": {
+          "wins": 10,
+          "losses": 3,
+          "ties": 0,
+          "raw": "10-3"
+        },
+        "Lisa": {
+          "wins": 10,
+          "losses": 3,
+          "ties": 0,
+          "raw": "10-3"
+        },
+        "Heidi": {
+          "wins": 11,
+          "losses": 2,
+          "ties": 0,
+          "raw": "11-2"
+        }
+      },
+      "points": {
+        "CF&SF": 52,
+        "Mark F.": 47,
+        "Susan": 54,
+        "Cowan": 42,
+        "Ray": 45,
+        "Vicki": 43,
+        "Craig": 42,
+        "Kevin": 41,
+        "Mark C.": 44,
+        "Lisa": 48,
+        "Heidi": 47
+      },
+      "mondayTotal": 35
+    },
+    {
+      "week": 9,
+      "records": {
+        "CF&SF": {
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "raw": "6-8"
+        },
+        "Mark F.": {
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "raw": "9-5"
+        },
+        "Susan": {
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "raw": "8-6"
+        },
+        "Cowan": {
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "raw": "10-4"
+        },
+        "Ray": {
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "raw": "10-4"
+        },
+        "Vicki": {
+          "wins": 3,
+          "losses": 11,
+          "ties": 0,
+          "raw": "3-11"
+        },
+        "Craig": {
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "raw": "7-7"
+        },
+        "Kevin": {
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "raw": "8-6"
+        },
+        "Mark C.": {
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "raw": "9-5"
+        },
+        "Lisa": {
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "raw": "9-5"
+        },
+        "Heidi": {
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "raw": "9-5"
+        }
+      },
+      "points": {
+        "CF&SF": 65,
+        "Mark F.": 48,
+        "Susan": 53,
+        "Cowan": 42,
+        "Ray": 54,
+        "Vicki": 41,
+        "Craig": 40,
+        "Kevin": 37,
+        "Mark C.": 47,
+        "Lisa": 58,
+        "Heidi": 49
+      },
+      "mondayTotal": 44
+    },
+    {
+      "week": 10,
+      "records": {
+        "CF&SF": {
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "raw": "8-6"
+        },
+        "Mark F.": {
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "raw": "10-4"
+        },
+        "Susan": {
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "raw": "7-7"
+        },
+        "Cowan": {
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "raw": "10-4"
+        },
+        "Ray": {
+          "wins": 0,
+          "losses": 14,
+          "ties": 0,
+          "raw": "0-14"
+        },
+        "Vicki": {
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "raw": "8-6"
+        },
+        "Craig": {
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "raw": "9-5"
+        },
+        "Kevin": {
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "raw": "8-6"
+        },
+        "Mark C.": {
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "raw": "7-7"
+        },
+        "Lisa": {
+          "wins": 11,
+          "losses": 3,
+          "ties": 0,
+          "raw": "11-3"
+        },
+        "Heidi": {
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "raw": "10-4"
+        }
+      },
+      "points": {
+        "CF&SF": 47,
+        "Susan": 48,
+        "Cowan": 49,
+        "Vicki": 41,
+        "Craig": 45,
+        "Kevin": 49,
+        "Mark C.": 44,
+        "Lisa": 51,
+        "Heidi": 44
+      },
+      "mondayTotal": 17
+    },
+    {
+      "week": 11,
+      "records": {
+        "CF&SF": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        },
+        "Mark F.": {
+          "wins": 13,
+          "losses": 2,
+          "ties": 0,
+          "raw": "13-2"
+        },
+        "Susan": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Cowan": {
+          "wins": 14,
+          "losses": 1,
+          "ties": 0,
+          "raw": "14-1"
+        },
+        "Ray": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        },
+        "Vicki": {
+          "wins": 14,
+          "losses": 1,
+          "ties": 0,
+          "raw": "14-1"
+        },
+        "Craig": {
+          "wins": 10,
+          "losses": 5,
+          "ties": 0,
+          "raw": "10-5"
+        },
+        "Kevin": {
+          "wins": 13,
+          "losses": 2,
+          "ties": 0,
+          "raw": "13-2"
+        },
+        "Mark C.": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        },
+        "Lisa": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        },
+        "Heidi": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        }
+      },
+      "points": {
+        "CF&SF": 49,
+        "Mark F.": 51,
+        "Susan": 35,
+        "Cowan": 43,
+        "Ray": 52,
+        "Vicki": 41,
+        "Craig": 42,
+        "Kevin": 47,
+        "Mark C.": 37,
+        "Lisa": 48,
+        "Heidi": 50
+      },
+      "mondayTotal": 49
+    },
+    {
+      "week": 12,
+      "records": {
+        "CF&SF": {
+          "wins": 11,
+          "losses": 3,
+          "ties": 0,
+          "raw": "11-3"
+        },
+        "Mark F.": {
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "raw": "9-5"
+        },
+        "Susan": {
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "raw": "9-5"
+        },
+        "Cowan": {
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "raw": "10-4"
+        },
+        "Ray": {
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "raw": "8-6"
+        },
+        "Vicki": {
+          "wins": 11,
+          "losses": 3,
+          "ties": 0,
+          "raw": "11-3"
+        },
+        "Craig": {
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "raw": "10-4"
+        },
+        "Kevin": {
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "raw": "9-5"
+        },
+        "Mark C.": {
+          "wins": 11,
+          "losses": 3,
+          "ties": 0,
+          "raw": "11-3"
+        },
+        "Lisa": {
+          "wins": 11,
+          "losses": 3,
+          "ties": 0,
+          "raw": "11-3"
+        },
+        "Heidi": {
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "raw": "10-4"
+        }
+      },
+      "points": {
+        "CF&SF": 51,
+        "Mark F.": 44,
+        "Susan": 44,
+        "Cowan": 42,
+        "Ray": 54,
+        "Vicki": 45,
+        "Craig": 45,
+        "Kevin": 48,
+        "Mark C.": 41,
+        "Lisa": 42,
+        "Heidi": 49
+      },
+      "mondayTotal": 29
+    },
+    {
+      "week": 13,
+      "records": {
+        "CF&SF": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Mark F.": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Susan": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Cowan": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Ray": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Vicki": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Craig": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Kevin": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Mark C.": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Lisa": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Heidi": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        }
+      },
+      "points": {
+        "CF&SF": 49,
+        "Mark F.": 43,
+        "Susan": 47,
+        "Cowan": 46,
+        "Ray": 47,
+        "Vicki": 45,
+        "Craig": 38,
+        "Kevin": 39,
+        "Mark C.": 41,
+        "Lisa": 41,
+        "Heidi": 46
+      },
+      "mondayTotal": 48
+    },
+    {
+      "week": 14,
+      "records": {
+        "CF&SF": {
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "raw": "7-6"
+        },
+        "Mark F.": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Susan": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Cowan": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Ray": {
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "raw": "7-6"
+        },
+        "Vicki": {
+          "wins": 9,
+          "losses": 4,
+          "ties": 0,
+          "raw": "9-4"
+        },
+        "Craig": {
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "raw": "7-6"
+        },
+        "Kevin": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Mark C.": {
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "raw": "7-6"
+        },
+        "Lisa": {
+          "wins": 8,
+          "losses": 5,
+          "ties": 0,
+          "raw": "8-5"
+        },
+        "Heidi": {
+          "wins": 7,
+          "losses": 6,
+          "ties": 0,
+          "raw": "7-6"
+        }
+      },
+      "points": {
+        "CF&SF": 44,
+        "Mark F.": 39,
+        "Ray": 52,
+        "Vicki": 45,
+        "Craig": 46,
+        "Kevin": 44,
+        "Mark C.": 49,
+        "Lisa": 52,
+        "Heidi": 40
+      },
+      "mondayTotal": null
+    },
+    {
+      "week": 15,
+      "records": {
+        "CF&SF": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Mark F.": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Susan": {
+          "wins": 12,
+          "losses": 4,
+          "ties": 0,
+          "raw": "12-4"
+        },
+        "Cowan": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Ray": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Vicki": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Craig": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Kevin": {
+          "wins": 13,
+          "losses": 3,
+          "ties": 0,
+          "raw": "13-3"
+        },
+        "Mark C.": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Lisa": {
+          "wins": 7,
+          "losses": 9,
+          "ties": 0,
+          "raw": "7-9"
+        },
+        "Heidi": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        }
+      },
+      "points": {
+        "CF&SF": 44,
+        "Mark F.": 32,
+        "Susan": 46,
+        "Cowan": 49,
+        "Ray": 54,
+        "Vicki": 45,
+        "Craig": 36,
+        "Kevin": 44,
+        "Mark C.": 45,
+        "Lisa": 46,
+        "Heidi": 37
+      },
+      "mondayTotal": 43
+    },
+    {
+      "week": 16,
+      "records": {
+        "CF&SF": {
+          "wins": 8,
+          "losses": 7,
+          "ties": 0,
+          "raw": "8-7"
+        },
+        "Mark F.": {
+          "wins": 12,
+          "losses": 3,
+          "ties": 0,
+          "raw": "12-3"
+        },
+        "Susan": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        },
+        "Cowan": {
+          "wins": 12,
+          "losses": 3,
+          "ties": 0,
+          "raw": "12-3"
+        },
+        "Ray": {
+          "wins": 6,
+          "losses": 9,
+          "ties": 0,
+          "raw": "6-9"
+        },
+        "Vicki": {
+          "wins": 0,
+          "losses": 15,
+          "ties": 0,
+          "raw": "0-15"
+        },
+        "Craig": {
+          "wins": 6,
+          "losses": 9,
+          "ties": 0,
+          "raw": "6-9"
+        },
+        "Kevin": {
+          "wins": 0,
+          "losses": 15,
+          "ties": 0,
+          "raw": "0-15"
+        },
+        "Mark C.": {
+          "wins": 11,
+          "losses": 4,
+          "ties": 0,
+          "raw": "11-4"
+        },
+        "Lisa": {
+          "wins": 7,
+          "losses": 8,
+          "ties": 0,
+          "raw": "7-8"
+        },
+        "Heidi": {
+          "wins": 9,
+          "losses": 6,
+          "ties": 0,
+          "raw": "9-6"
+        }
+      },
+      "points": {
+        "CF&SF": 49,
+        "Mark F.": 39,
+        "Susan": 48,
+        "Cowan": 48,
+        "Ray": 47,
+        "Craig": 45,
+        "Mark C.": 43,
+        "Lisa": 50,
+        "Heidi": 45
+      },
+      "mondayTotal": null
+    },
+    {
+      "week": 17,
+      "records": {
+        "CF&SF": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Mark F.": {
+          "wins": 0,
+          "losses": 16,
+          "ties": 0,
+          "raw": "0-16"
+        },
+        "Susan": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Cowan": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Ray": {
+          "wins": 6,
+          "losses": 10,
+          "ties": 0,
+          "raw": "6-10"
+        },
+        "Vicki": {
+          "wins": 0,
+          "losses": 16,
+          "ties": 0,
+          "raw": "0-16"
+        },
+        "Craig": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Kevin": {
+          "wins": 0,
+          "losses": 16,
+          "ties": 0,
+          "raw": "0-16"
+        },
+        "Mark C.": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Lisa": {
+          "wins": 11,
+          "losses": 5,
+          "ties": 0,
+          "raw": "11-5"
+        },
+        "Heidi": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        }
+      },
+      "points": {
+        "CF&SF": 52,
+        "Susan": 48,
+        "Cowan": 43,
+        "Ray": 47,
+        "Craig": 48,
+        "Mark C.": 55,
+        "Lisa": 47,
+        "Heidi": 50
+      },
+      "mondayTotal": 51
+    },
+    {
+      "week": 18,
+      "records": {
+        "CF&SF": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Mark F.": {
+          "wins": 7,
+          "losses": 9,
+          "ties": 0,
+          "raw": "7-9"
+        },
+        "Susan": {
+          "wins": 12,
+          "losses": 4,
+          "ties": 0,
+          "raw": "12-4"
+        },
+        "Cowan": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Ray": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Vicki": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Craig": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        },
+        "Kevin": {
+          "wins": 10,
+          "losses": 6,
+          "ties": 0,
+          "raw": "10-6"
+        },
+        "Mark C.": {
+          "wins": 7,
+          "losses": 9,
+          "ties": 0,
+          "raw": "7-9"
+        },
+        "Lisa": {
+          "wins": 9,
+          "losses": 7,
+          "ties": 0,
+          "raw": "9-7"
+        },
+        "Heidi": {
+          "wins": 8,
+          "losses": 8,
+          "ties": 0,
+          "raw": "8-8"
+        }
+      },
+      "points": {
+        "CF&SF": 42,
+        "Mark F.": 47,
+        "Susan": 47,
+        "Cowan": 45,
+        "Ray": 48,
+        "Vicki": 45,
+        "Craig": 32,
+        "Kevin": 36,
+        "Mark C.": 43,
+        "Lisa": 40,
+        "Heidi": 44
+      },
+      "mondayTotal": null
+    }
+  ],
+  "players": [
+    "CF&SF",
+    "Cowan",
+    "Craig",
+    "Heidi",
+    "Kevin",
+    "Lisa",
+    "Mark C.",
+    "Mark F.",
+    "Ray",
+    "Susan",
+    "Vicki"
+  ],
+  "seasonTotals": {
+    "CF&SF": {
+      "wins": 170,
+      "losses": 100,
+      "ties": 0
+    },
+    "Cowan": {
+      "wins": 168,
+      "losses": 102,
+      "ties": 0
+    },
+    "Craig": {
+      "wins": 158,
+      "losses": 112,
+      "ties": 0
+    },
+    "Heidi": {
+      "wins": 172,
+      "losses": 98,
+      "ties": 0
+    },
+    "Kevin": {
+      "wins": 149,
+      "losses": 121,
+      "ties": 0
+    },
+    "Lisa": {
+      "wins": 173,
+      "losses": 97,
+      "ties": 0
+    },
+    "Mark C.": {
+      "wins": 171,
+      "losses": 99,
+      "ties": 0
+    },
+    "Mark F.": {
+      "wins": 161,
+      "losses": 109,
+      "ties": 0
+    },
+    "Ray": {
+      "wins": 158,
+      "losses": 112,
+      "ties": 0
+    },
+    "Susan": {
+      "wins": 177,
+      "losses": 93,
+      "ties": 0
+    },
+    "Vicki": {
+      "wins": 138,
+      "losses": 132,
+      "ties": 0
+    }
+  }
+}

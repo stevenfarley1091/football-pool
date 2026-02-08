@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gridiron Pool</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;600;700&family=Fraunces:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="app">
+      <div class="js-warning" id="jsWarning">
+        JavaScript did not load. If you are opening this from a local file, make sure
+        `app.js` is in the same folder as `index.html`.
+      </div>
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark">GP</div>
+          <div>
+            <h1 id="leagueName">Gridiron Pool</h1>
+            <p id="leagueMeta">Week 1 · NFL</p>
+          </div>
+        </div>
+        <div class="topbar-actions">
+          <div class="status-pill" id="liveStatus">Live sync off</div>
+          <button class="ghost" id="refreshBtn">Refresh</button>
+          <button class="primary" id="logoutBtn">Log out</button>
+        </div>
+      </header>
+
+      <nav class="tabs" id="tabs">
+        <button class="tab active" data-tab="week">Week View</button>
+        <button class="tab" data-tab="standings">Standings</button>
+        <button class="tab" data-tab="history">History</button>
+        <button class="tab" data-tab="admin">Admin</button>
+      </nav>
+
+      <main>
+        <section class="panel" id="tab-week"></section>
+        <section class="panel hidden" id="tab-standings"></section>
+        <section class="panel hidden" id="tab-history"></section>
+        <section class="panel hidden" id="tab-admin"></section>
+      </main>
+    </div>
+
+    <div class="modal" id="loginModal">
+      <div class="modal-card">
+        <h2>Join the League</h2>
+        <p>Enter the shared league name and password to view the pool.</p>
+        <label>
+          League Name
+          <input type="text" id="loginLeague" placeholder="Sunday Champs" />
+        </label>
+        <label>
+          League Password
+          <input type="password" id="loginPassword" placeholder="••••••••" />
+        </label>
+        <div class="login-error" id="loginError"></div>
+        <button class="primary" id="loginBtn" type="button">Enter</button>
+        <p class="hint">League name on file: <strong id="loginLeagueHint"></strong></p>
+        <p class="hint">If you are the admin, use Settings to update the league password.</p>
+      </div>
+    </div>
+
+    <div class="modal hidden" id="adminModal">
+      <div class="modal-card">
+        <h2>Admin Access</h2>
+        <p>Enter the admin PIN to unlock edits.</p>
+        <label>
+          Admin PIN
+          <input type="password" id="adminPinModalInput" placeholder="••••••••" />
+        </label>
+        <div class="login-error" id="adminError"></div>
+        <button class="primary" id="adminUnlockBtn" type="button">Unlock</button>
+      </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <script src="history-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
