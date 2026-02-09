@@ -799,6 +799,7 @@ function renderPickBadge(game, pick) {
 }
 
 function renderStandings() {
+  const weekWins = computeWeekWins(data.weeks, data.players);
   const totals = data.players.reduce((acc, player) => {
     acc[player] = { wins: 0, losses: 0, ties: 0, pending: 0 };
     return acc;
@@ -816,7 +817,11 @@ function renderStandings() {
     });
   });
 
-  const rows = Object.entries(totals).map(([player, rec]) => ({ player, ...rec }));
+  const rows = Object.entries(totals).map(([player, rec]) => ({
+    player,
+    weekWins: weekWins[player] || 0,
+    ...rec,
+  }));
   rows.sort(compareRecords);
   const withPct = rows.map((row) => ({ ...row, pct: calcWinPct(row.wins, row.losses, row.ties) }));
 
@@ -840,6 +845,7 @@ function renderStandings() {
           <th>Wins</th>
           <th>Losses</th>
           <th>Win %</th>
+          <th>Week Wins</th>
         </tr>
       </thead>
       <tbody>
@@ -851,6 +857,7 @@ function renderStandings() {
               <td>${row.wins}</td>
               <td>${row.losses}</td>
               <td>${row.pct}</td>
+              <td>${row.weekWins}</td>
             </tr>
           `
           )
@@ -917,6 +924,55 @@ function compareRecords(a, b) {
   return a.player.localeCompare(b.player);
 }
 
+function computeWeekWins(weeks, players) {
+  const totals = players.reduce((acc, player) => {
+    acc[player] = 0;
+    return acc;
+  }, {});
+
+  Object.values(weeks).forEach((week) => {
+    const games = week.games || [];
+    const rows = players.map((player) => {
+      const picks = week.picks?.[player] || {};
+      const tally = tallyResults(games, picks);
+      return { player, ...tally };
+    });
+    if (!rows.length) return;
+    rows.sort(compareRecords);
+    const top = rows[0];
+    const tied = rows.filter((row) => row.wins === top.wins && row.losses === top.losses);
+    tied.forEach((row) => {
+      totals[row.player] = (totals[row.player] || 0) + 1;
+    });
+  });
+
+  return totals;
+}
+
+function computeHistoryWeekWins(seasonData) {
+  const players = seasonData.players || [];
+  const totals = players.reduce((acc, player) => {
+    acc[player] = 0;
+    return acc;
+  }, {});
+
+  (seasonData.weeks || []).forEach((week) => {
+    const rows = players.map((player) => {
+      const rec = week.records?.[player] || { wins: 0, losses: 0, ties: 0 };
+      return { player, wins: rec.wins + rec.ties, losses: rec.losses };
+    });
+    if (!rows.length) return;
+    rows.sort(compareRecords);
+    const top = rows[0];
+    const tied = rows.filter((row) => row.wins === top.wins && row.losses === top.losses);
+    tied.forEach((row) => {
+      totals[row.player] = (totals[row.player] || 0) + 1;
+    });
+  });
+
+  return totals;
+}
+
 function calcWinPct(wins, losses, ties) {
   const games = wins + losses;
   if (!games) return ".000";
@@ -947,6 +1003,7 @@ async function renderHistory() {
   }
 
   const seasonTotals = seasonData.seasonTotals || {};
+  const seasonWeekWins = computeHistoryWeekWins(seasonData);
   const rankCompare = (a, b) => {
     if (b.wins !== a.wins) return b.wins - a.wins;
     if (a.losses !== b.losses) return a.losses - b.losses;
@@ -964,7 +1021,13 @@ async function renderHistory() {
   const totalsRows = (seasonData.players || [])
     .map((player) => {
       const rec = seasonTotals[player] || { wins: 0, losses: 0, ties: 0 };
-      return { player, wins: rec.wins + rec.ties, losses: rec.losses, ties: 0 };
+      return {
+        player,
+        wins: rec.wins + rec.ties,
+        losses: rec.losses,
+        ties: 0,
+        weekWins: seasonWeekWins[player] || 0,
+      };
     })
     .sort(rankCompare);
 
@@ -1011,6 +1074,7 @@ async function renderHistory() {
           <th>Wins</th>
           <th>Losses</th>
           <th>Win %</th>
+          <th>Week Wins</th>
         </tr>
       </thead>
       <tbody>
@@ -1023,6 +1087,7 @@ async function renderHistory() {
                 <td>${row.wins}</td>
                 <td>${row.losses}</td>
                 <td>${pct}</td>
+                <td>${row.weekWins}</td>
               </tr>
             `;
           })
